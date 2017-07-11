@@ -1,0 +1,82 @@
+c:\users\thuan phong\documents\visual studio 2013\Projects\QLSach\QLSach\bin\Debug\QLSach.exe.config
+c:\users\thuan phong\documents\visual studio 2013\Projects\QLSach\QLSach\bin\Debug\QLSach.exe
+c:\users\thuan phong\documents\visual studio 2013\Projects\QLSach\QLSach\bin\Debug\QLSach.pdb
+c:\users\thuan phong\documents\visual studio 2013\Projects\QLSach\QLSach\obj\Debug\QLSach.csprojResolveAssemblyReference.cache
+c:\users\thuan phong\documents\visual studio 2013\Projects\QLSach\QLSach\obj\Debug\QLSach.Properties.Resources.resources
+c:\users\thuan phong\documents\visual studio 2013\Projects\QLSach\QLSach\obj\Debug\QLSach.csproj.GenerateResource.Cache
+c:\users\thuan phong\documents\visual studio 2013\Projects\QLSach\QLSach\obj\Debug\QLSach.exe
+c:\users\thuan phong\documents\visual studio 2013\Projects\QLSach\QLSach\obj\Debug\QLSach.pdb
+C:\Users\THUAN PHONG\Documents\Visual Studio 2013\Projects\QLSach\QLSach\bin\Debug\BUS.dll
+C:\Users\THUAN PHONG\Documents\Visual Studio 2013\Projects\QLSach\QLSach\bin\Debug\DAL.dll
+C:\Users\THUAN PHONG\Documents\Visual Studio 2013\Projects\QLSach\QLSach\bin\Debug\BUS.pdb
+C:\Users\THUAN PHONG\Documents\Visual Studio 2013\Projects\QLSach\QLSach\bin\Debug\DAL.pdb
+C:\Users\THUAN PHONG\Documents\Visual Studio 2013\Projects\QLSach\QLSach\obj\Debug\QLSach.frmSach.resources
+C:\Users\THUAN PHONG\Documents\Visual Studio 2013\Projects\QLSach\QLSach\obj\Debug\QLSach.frm_DangNhap.resources
+C:\Users\THUAN PHONG\Documents\Visual Studio 2013\Projects\QLSach\QLSach\obj\Debug\QLSach.frmNhanVien.resources
+C:\Users\THUAN PHONG\Documents\Visual Studio 2013\Projects\QLSach\QLSach\obj\Debug\QLSach.frm_Main.resources
+D:\BackUP_LTC#\QLSach\QLSach\bin\Debug\QLSach.exe.config
+D:\BackUP_LTC#\QLSach\QLSach\obj\Debug\QLSach.exe
+D:\BackUP_LTC#\QLSach\QLSach\obj\Debug\QLSach.pdb
+D:\BackUP_LTC#\QLSach\QLSach\obj\Debug\QLSach.csprojResolveAssemblyReference.cache
+D:\BackUP_LTC#\QLSach\QLSach\obj\Debug\QLSach.frmSach.resources
+D:\BackUP_LTC#\QLSach\QLSach\obj\Debug\QLSach.frm_DangNhap.resources
+D:\BackUP_LTC#\QLSach\QLSach\obj\Debug\QLSach.frmNhanVien.resources
+D:\BackUP_LTC#\QLSach\QLSach\obj\Debug\QLSach.frm_Main.resources
+D:\BackUP_LTC#\QLSach\QLSach\obj\Debug\QLSach.Properties.Resources.resources
+D:\BackUP_LTC#\QLSach\QLSach\obj\Debug\QLSach.csproj.GenerateResource.Cache
+D:\BackUP_LTC#\QLSach\QLSach\bin\Debug\QLSach.exe
+D:\BackUP_LTC#\QLSach\QLSach\bin\Debug\QLSach.pdb
+D:\BackUP_LTC#\QLSach\QLSach\bin\Debug\BUS.dll
+D:\BackUP_LTC#\QLSach\QLSach\bin\Debug\DAL.dll
+D:\BackUP_LTC#\QLSach\QLSach\bin\Debug\BUS.pdb
+D:\BackUP_LTC#\QLSach\QLSach\bin\Debug\DAL.pdb
+D:\BackUP_LTC#\2\QLSach\QLSach\bin\Debug\QLSach.exe.config
+D:\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.exe
+D:\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.pdb
+D:\BackUP_LTC#\2\QLSach\QLSach\bin\Debug\QLSach.exe
+D:\BackUP_LTC#\2\QLSach\QLSach\bin\Debug\QLSach.pdb
+D:\BackUP_LTC#\2\QLSach\QLSach\bin\Debug\BUS.dll
+D:\BackUP_LTC#\2\QLSach\QLSach\bin\Debug\DAL.dll
+D:\BackUP_LTC#\2\QLSach\QLSach\bin\Debug\BUS.pdb
+D:\BackUP_LTC#\2\QLSach\QLSach\bin\Debug\DAL.pdb
+D:\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.csprojResolveAssemblyReference.cache
+D:\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.frmSach.resources
+D:\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.frm_DangNhap.resources
+D:\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.frmNhanVien.resources
+D:\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.frm_Main.resources
+D:\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.Properties.Resources.resources
+D:\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.csproj.GenerateResource.Cache
+D:\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.frmTacGia.resources
+D:\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.frmNhaCungCap.resources
+D:\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.frmNhaXuaBan.resources
+D:\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.frmTheLoai.resources
+D:\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.frmTimKiem.resources
+D:\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.frmBanHang.resources
+C:\Users\THUAN PHONG\Documents\Visual Studio 2013\Projects\QLSach\QLSach\obj\Debug\QLSach.frmBanHang.resources
+C:\Users\THUAN PHONG\Documents\Visual Studio 2013\Projects\QLSach\QLSach\obj\Debug\QLSach.frmNhaCungCap.resources
+C:\Users\THUAN PHONG\Documents\Visual Studio 2013\Projects\QLSach\QLSach\obj\Debug\QLSach.frmNhaXuaBan.resources
+C:\Users\THUAN PHONG\Documents\Visual Studio 2013\Projects\QLSach\QLSach\obj\Debug\QLSach.frmTacGia.resources
+C:\Users\THUAN PHONG\Documents\Visual Studio 2013\Projects\QLSach\QLSach\obj\Debug\QLSach.frmTheLoai.resources
+C:\Users\THUAN PHONG\Documents\Visual Studio 2013\Projects\QLSach\QLSach\obj\Debug\QLSach.frmTimKiem.resources
+D:\Code\BackUP_LTC#\2\QLSach\QLSach\bin\Debug\QLSach.exe.config
+D:\Code\BackUP_LTC#\2\QLSach\QLSach\bin\Debug\QLSach.exe
+D:\Code\BackUP_LTC#\2\QLSach\QLSach\bin\Debug\QLSach.pdb
+D:\Code\BackUP_LTC#\2\QLSach\QLSach\bin\Debug\BUS.dll
+D:\Code\BackUP_LTC#\2\QLSach\QLSach\bin\Debug\DAL.dll
+D:\Code\BackUP_LTC#\2\QLSach\QLSach\bin\Debug\BUS.pdb
+D:\Code\BackUP_LTC#\2\QLSach\QLSach\bin\Debug\DAL.pdb
+D:\Code\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.csprojResolveAssemblyReference.cache
+D:\Code\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.frmBanHang.resources
+D:\Code\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.frmNhaCungCap.resources
+D:\Code\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.frmNhaXuaBan.resources
+D:\Code\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.frmSach.resources
+D:\Code\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.frmTacGia.resources
+D:\Code\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.frmTheLoai.resources
+D:\Code\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.frmTimKiem.resources
+D:\Code\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.frm_DangNhap.resources
+D:\Code\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.frmNhanVien.resources
+D:\Code\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.frm_Main.resources
+D:\Code\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.Properties.Resources.resources
+D:\Code\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.csproj.GenerateResource.Cache
+D:\Code\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.exe
+D:\Code\BackUP_LTC#\2\QLSach\QLSach\obj\Debug\QLSach.pdb

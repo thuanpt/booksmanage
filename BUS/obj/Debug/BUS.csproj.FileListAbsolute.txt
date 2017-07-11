@@ -1,0 +1,28 @@
+D:\BackUP_LTC#\QLSach\BUS\bin\Debug\BUS.dll
+D:\BackUP_LTC#\QLSach\BUS\bin\Debug\BUS.pdb
+D:\BackUP_LTC#\QLSach\BUS\bin\Debug\DAL.dll
+D:\BackUP_LTC#\QLSach\BUS\bin\Debug\DAL.pdb
+D:\BackUP_LTC#\QLSach\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\BackUP_LTC#\QLSach\BUS\obj\Debug\BUS.dll
+D:\BackUP_LTC#\QLSach\BUS\obj\Debug\BUS.pdb
+D:\BackUP_LTC#\2\QLSach\BUS\bin\Debug\BUS.dll
+D:\BackUP_LTC#\2\QLSach\BUS\bin\Debug\BUS.pdb
+D:\BackUP_LTC#\2\QLSach\BUS\bin\Debug\DAL.dll
+D:\BackUP_LTC#\2\QLSach\BUS\bin\Debug\DAL.pdb
+D:\BackUP_LTC#\2\QLSach\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\BackUP_LTC#\2\QLSach\BUS\obj\Debug\BUS.dll
+D:\BackUP_LTC#\2\QLSach\BUS\obj\Debug\BUS.pdb
+C:\Users\THUAN PHONG\Documents\Visual Studio 2013\Projects\QLSach\BUS\bin\Debug\BUS.dll
+C:\Users\THUAN PHONG\Documents\Visual Studio 2013\Projects\QLSach\BUS\bin\Debug\BUS.pdb
+C:\Users\THUAN PHONG\Documents\Visual Studio 2013\Projects\QLSach\BUS\bin\Debug\DAL.dll
+C:\Users\THUAN PHONG\Documents\Visual Studio 2013\Projects\QLSach\BUS\bin\Debug\DAL.pdb
+C:\Users\THUAN PHONG\Documents\Visual Studio 2013\Projects\QLSach\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\THUAN PHONG\Documents\Visual Studio 2013\Projects\QLSach\BUS\obj\Debug\BUS.dll
+C:\Users\THUAN PHONG\Documents\Visual Studio 2013\Projects\QLSach\BUS\obj\Debug\BUS.pdb
+D:\Code\BackUP_LTC#\2\QLSach\BUS\bin\Debug\BUS.dll
+D:\Code\BackUP_LTC#\2\QLSach\BUS\bin\Debug\BUS.pdb
+D:\Code\BackUP_LTC#\2\QLSach\BUS\bin\Debug\DAL.dll
+D:\Code\BackUP_LTC#\2\QLSach\BUS\bin\Debug\DAL.pdb
+D:\Code\BackUP_LTC#\2\QLSach\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Code\BackUP_LTC#\2\QLSach\BUS\obj\Debug\BUS.dll
+D:\Code\BackUP_LTC#\2\QLSach\BUS\obj\Debug\BUS.pdb
